@@ -524,24 +524,3 @@ nav li{
      margin-top: 20px;
 }
 }
-
-
-@media (min-width: 992px) {
-
-
-      
- 
-   body {
-      width: 1147px;
-      height: 90vh;
-   
-   }
- 
-   nav {
-      display: flex;
-      justify-content: space-between;
-      align-items: center;
-      margin-top: 50px;
-      margin-top: 20px;
-   }
-}
